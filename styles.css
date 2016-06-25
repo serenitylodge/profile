@@ -1,4 +1,4 @@
-* { 
+* {
   box-sizing: border-box;
 }
 
@@ -40,7 +40,7 @@ header {
   padding: 20px 40px;
   max-width: 500px;
   background: #fff;
-  border-bottom: 4px solid #ccc;
+  border-bottom: 4px solid #31194B;
   border-radius: 6px;
   transition: all .5s;
 }
